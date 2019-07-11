@@ -1,0 +1,19 @@
+{
+  "name": "soracpe-camp",
+  "version": "1.0.0",
+  "description": "line bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sora2543/soracpe-camp.git"
+  },
+  "author": "Kittidbordin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sora2543/soracpe-camp/issues"
+  },
+  "homepage": "https://github.com/sora2543/soracpe-camp#readme"
+}
